@@ -7,7 +7,7 @@
 
 ## Установка
 
-1. Для работы темы нужно установить BetterDiscord.
+1. Для работы темы нужно установить [BetterDiscord](https://betterdiscord.app/themes).
 
 2. Файл "Apple.theme.css" нужно перекинуть в папку Themes.
 
@@ -19,6 +19,6 @@ The theme uses code and work from other users. Developments taken from other Dis
 
 ## Installing
 
-1. For the theme to work you need BetterDiscord.
+1. For the theme to work you need [BetterDiscord](https://betterdiscord.app/themes).
 
 2. The file "Apple.theme.css" must be transferred to the Themes.
